@@ -34,7 +34,6 @@ Option | Description
 ## Installation:
 ```
 git clone https://github.com/Tech-Abdullahi/Cl0neMast3r_python3
-cd Cl0neMast3r_python3/
 pip install -r requirements.txt
 ```
 
