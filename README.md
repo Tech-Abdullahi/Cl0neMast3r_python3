@@ -22,7 +22,7 @@ Option | Description
 **X**  | E**x**port your tools to HTML
 
 ## Requirements:
-* **Python 2.7.***
+* **Python 3***
 
 * **Requests** You can find it [Here](https://pypi.python.org/pypi/requests)<br>
 **How To Install**: `pip install requests`
@@ -33,8 +33,8 @@ Option | Description
 
 ## Installation:
 ```
-git clone https://github.com/Abdulraheem30042/Cl0neMast3r.git
-cd Cl0neMast3r/
+git clone https://github.com/Tech-Abdullahi/Cl0neMast3r.git
+cd Cl0neMast3r_Python3/
 pip install -r requirements.txt
 ```
 
@@ -45,9 +45,4 @@ Cl0neMast3r has been tested on:
 * **Kali Linux**
 * **Linux Mint**
 
-## Version:
-Current version: **1.0**<br>
-You can check versions history from [Here](https://github.com/Abdulraheem30042/Cl0neMast3r/blob/master/Changelog.md)
 
-## Coder:
-Coded with **love** and **bugs** by [**Abdulraheem Khaled**](https://twitter.com/abdulrah33mk) :heart:
