@@ -1,7 +1,7 @@
 # **Cl0neMast3r_Python3**
 
 ## About:
-**Cl0neMast3r** is a Python script that was coded to make your life easier.
+**Cl0neMast3r_Python3** is a Python script that was coded to make your life easier.
 <br>Now you can easily choose your favorite tools from GitHub and install them on your system with one click.<br>
 Even better you can ensure that you have latest version of your favorite tools.<br>
 All this and more you can do with Clone master.
@@ -33,8 +33,8 @@ Option | Description
 
 ## Installation:
 ```
-git clone https://github.com/Tech-Abdullahi/Cl0neMast3r.git
-cd Cl0neMast3r_Python3/
+git clone https://github.com/Tech-Abdullahi/Cl0neMast3r_python3
+cd Cl0neMast3r_python3/
 pip install -r requirements.txt
 ```
 
