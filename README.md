@@ -6,18 +6,13 @@
 Even better you can ensure that you have latest version of your favorite tools.<br>
 All this and more you can do with Clone master.
 
-Clone Master was mainly made for **penetration testers** and **bug hunters** :wink:
-
-## Screenshots:
-![macOS](https://i.imgur.com/jySH8A2.jpg)
-Check all [Screenshots](https://github.com/Abdulraheem30042/Cl0neMast3r/tree/master/ScreenShots)
-
+Clone Master was mainly made for **penetration testers** and **bug hunters** 
 ## Options:
 Cl0neMast3r provides you with a lot of options:
 
 Option | Description
 ------ | -----------
-**A**  | **A**dd a tool from GitHub using URL
+**A**  | **A**dd a tool from GitHub using URLw
 **F**  | **F**ind a tool on GitHub
 **R**  | **R**einstall your tools
 **U**  | **U**pdate your tools
